@@ -23,7 +23,18 @@ This project serves as a foundation for a complete platformer experience and is 
 ## Project Structure
 
 ```text
-2d-platformer-game/ ├── scenes/ ├── main.tscn ├── project.godot ├── Idle (32x32).png ├── Run (32x32).png ├── Jump (32x32).png ├── Terrain (16x16).png └── README.md
+2d-platformer-game/
+├── scenes/
+├── main.tscn
+├── project.godot
+├── Idle (32x32).png
+├── Run (32x32).png
+├── Jump (32x32).png
+├── Terrain (16x16).png
+├── icon.svg
+├── .gitignore
+├── .gitattributes
+└── README.md
 ```
 
 ## Getting Started
